@@ -1,3 +1,3 @@
-# democonfig
+# Shipment Config
 
-Application properties for demo java spring boot project
+For Back-end Spring Boot Project
